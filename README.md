@@ -1,4 +1,5 @@
 # dynamichepzulbrine
+index.html
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,7 +9,7 @@
       background-color: #000;
       color: #00ffcc;
       font-family: Arial, sans-serif;
-      text-align: center;
+     text-align: center;
       padding: 40px;
     }
     h1 {
@@ -31,7 +32,6 @@
     <p><b>Legacy:</b> The fire of creation never dies.</p>
   </div>
 </body>
- 
 </html>
 <!DOCTYPE html>
 <html lang="en">
@@ -41,14 +41,13 @@
   <title>Dynamic Hepzul Brine - Official Site</title>
   <style>
     body {
-      margin: 0;
+     margin: 0;
       padding: 0;
       background-color: #0a0a0a;
       color: #00ffcc;
       font-family: 'Courier New', monospace;
       text-align: center;
-    }
-
+  }
     header {
       background-color: #001f1f;
       padding: 30px 0;
@@ -123,13 +122,11 @@
       <a href="#contact">Contact</a>
     </nav>
   </header>
-
   <section id="about">
     <h2>About</h2>
     <p>Dynamic Hepzul Brine was founded in 2003 by WeninjaRtUX and RexNinjaUiGRa. 
     It became the root of the legendary Herobrine Brothers Brotherhood — a gathering of creative minds and powerful leaders united by one purpose: to preserve the eternal flame of creation and mystery.</p>
   </section>
-
   <section id="founders">
     <h2>Founders</h2>
     <div class="founders">
